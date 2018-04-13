@@ -1,0 +1,11 @@
+F:\Owner\C#CodeRepository\SoloLearnFirstCSharp\SoloLearnFirstCSharp\bin\Debug\netcoreapp2.0\SoloLearnFirstCSharp.deps.json
+F:\Owner\C#CodeRepository\SoloLearnFirstCSharp\SoloLearnFirstCSharp\bin\Debug\netcoreapp2.0\SoloLearnFirstCSharp.runtimeconfig.json
+F:\Owner\C#CodeRepository\SoloLearnFirstCSharp\SoloLearnFirstCSharp\bin\Debug\netcoreapp2.0\SoloLearnFirstCSharp.runtimeconfig.dev.json
+F:\Owner\C#CodeRepository\SoloLearnFirstCSharp\SoloLearnFirstCSharp\bin\Debug\netcoreapp2.0\SoloLearnFirstCSharp.dll
+F:\Owner\C#CodeRepository\SoloLearnFirstCSharp\SoloLearnFirstCSharp\bin\Debug\netcoreapp2.0\SoloLearnFirstCSharp.pdb
+F:\Owner\C#CodeRepository\SoloLearnFirstCSharp\SoloLearnFirstCSharp\obj\Debug\netcoreapp2.0\SoloLearnFirstCSharp.csprojResolveAssemblyReference.cache
+F:\Owner\C#CodeRepository\SoloLearnFirstCSharp\SoloLearnFirstCSharp\obj\Debug\netcoreapp2.0\SoloLearnFirstCSharp.csproj.CoreCompileInputs.cache
+F:\Owner\C#CodeRepository\SoloLearnFirstCSharp\SoloLearnFirstCSharp\obj\Debug\netcoreapp2.0\SoloLearnFirstCSharp.AssemblyInfoInputs.cache
+F:\Owner\C#CodeRepository\SoloLearnFirstCSharp\SoloLearnFirstCSharp\obj\Debug\netcoreapp2.0\SoloLearnFirstCSharp.AssemblyInfo.cs
+F:\Owner\C#CodeRepository\SoloLearnFirstCSharp\SoloLearnFirstCSharp\obj\Debug\netcoreapp2.0\SoloLearnFirstCSharp.dll
+F:\Owner\C#CodeRepository\SoloLearnFirstCSharp\SoloLearnFirstCSharp\obj\Debug\netcoreapp2.0\SoloLearnFirstCSharp.pdb
